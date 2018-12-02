@@ -1,0 +1,10 @@
+swagger:
+  config:
+    api-info:
+      contactName: Chris Nelson
+      contactUrl: http://example.org/contact.html
+      contactEmail: someemail@example.org
+      description: The description of the service
+      title: The title of the service
+      licenseUrl: http://example.org/license.html
+    refreshRate: 5000
